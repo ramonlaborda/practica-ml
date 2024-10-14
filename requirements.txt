@@ -1,2 +1,6 @@
 pandas==2.1.4
 sklearn==1.2.2
+numpy==1.26.4
+seaborn==0.12.2
+matplotlib==3.8.0
+folium==0.17.0
