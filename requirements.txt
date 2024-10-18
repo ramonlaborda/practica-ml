@@ -4,3 +4,4 @@ numpy==1.26.4
 seaborn==0.12.2
 matplotlib==3.8.0
 folium==0.17.0
+xgboost==2.1.1
